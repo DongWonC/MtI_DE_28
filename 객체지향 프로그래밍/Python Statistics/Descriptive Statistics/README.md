@@ -67,7 +67,7 @@
 
   * 분산에 루트를 적용하여 계산
 
-    ![image-20230715193453389](C:\Users\ehddn\AppData\Roaming\Typora\typora-user-images\image-20230715193453389.png)
+    ![image-20230715193453389](객체지향 프로그래밍/Python Statistics/Descriptive Statistics/Statistics_variable.png)
 
     
 
