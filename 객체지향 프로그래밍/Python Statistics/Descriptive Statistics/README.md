@@ -20,7 +20,7 @@
   * 등간(Interval) : 측정값 사이에 순서가 있고, 간격이 동일/영점(0)의 의미 임의적
   * 비율(Ratio) : 절대영점(아무것도 존재하지 않는 상태) 존재/사칙연산 모두 가능
 
-![image-20230715192105531](C:\Users\ehddn\AppData\Roaming\Typora\typora-user-images\image-20230715192105531.png)
+![image-20230715192105531](./Statistics_variable.png)
 
 
 
@@ -45,13 +45,13 @@
 * <span style ="color:red">최솟값</span>(Q1 - 1.5 * IQR)과 <span style ="color:red">최댓값</span>(Q3 + 1.5 * IQR)
 * <span style ="color:red">사분위범위</span> : 0%, 25%,50%, 75%, 100% 구간으로 나눈 <span style ="color:purple">사분위수에서 25% 75% 사이</span>의 값들(boxplot으로 표현)
 
-![image-20230715192920711](C:\Users\ehddn\AppData\Roaming\Typora\typora-user-images\image-20230715192920711.png)
+![image-20230715192920711](./boxplot.png)
 
 * 분산(variance/<span style="color:red">var</span>)
 
   * 편찻값(관측치 - 평균)의 <span style="color:red">제곱</span>의 합을 데이터의 수로 나눈 값
 
-    ![image-20230715193222806](C:\Users\ehddn\AppData\Roaming\Typora\typora-user-images\image-20230715193222806.png)
+    ![image-20230715193222806](./variance.png)
 
   * 편찻값으로는 <span style="color:blue">흩어진 정도</span>를 조사할 수 없음(음수, 양수가 각각 상쇄)
 
@@ -67,7 +67,7 @@
 
   * 분산에 루트를 적용하여 계산
 
-    ![image-20230715193453389](객체지향 프로그래밍/Python Statistics/Descriptive Statistics/Statistics_variable.png)
+    ![image-20230715193453389](./standard_deviation.png)
 
     
 
